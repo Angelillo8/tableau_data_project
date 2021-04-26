@@ -1,0 +1,1 @@
+# Data analytics project with Tableau: Stop and Search - UK Police forces## AboutA project carried out in order to analyse data provided by the UK Police. The data was extracted directly from the UK Police API. The data visualisation was done with Tableau.
